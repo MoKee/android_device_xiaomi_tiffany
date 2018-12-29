@@ -1,5 +1,13 @@
 [
   {
+    "repository": "android_vendor_xiaomi_tiffany",
+    "target_path": "vendor/xiaomi/tiffany"
+  },
+  {
+    "repository": "android_vendor_xiaomi_miuicamera",
+    "target_path": "vendor/xiaomi/MiuiCamera"
+  },
+  {
     "repository": "android_device_xiaomi_msm8953-common",
     "target_path": "device/xiaomi/msm8953-common"
   },
