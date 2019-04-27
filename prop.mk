@@ -10,3 +10,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap \
 persist.camera.dual.camera=0
 
+# Maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.mk.maintainer=Pig
+
